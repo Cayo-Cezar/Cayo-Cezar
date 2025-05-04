@@ -1,5 +1,4 @@
 # Olá! Eu sou o Cayo
-Sou engenheiro de dados e estudo ciência da computação na Universidade Tecnológica Federal do Paraná.
 
 ## 🚀 Skills
 - **Linguagens**: JavaScript, C#, Python
