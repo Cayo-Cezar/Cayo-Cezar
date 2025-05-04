@@ -1,13 +1,9 @@
 # Olá! Eu sou o Cayo
 
 ## 🚀 Skills
-- **Linguagens**: JavaScript, C#, Python
-- **Frameworks**: ASP.NET Core, Vue.js, Nuxt.js
-- **Ferramentas**: Git, Docker, MySQL
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-%2300615B.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Linguagens**: JavaScript, C#, Python, Go
+- **Frameworks**: ASP.NET Core, Gin, Flask
+- **Ferramentas**: Git e Docker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-cezar/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cayo-Cezar)
