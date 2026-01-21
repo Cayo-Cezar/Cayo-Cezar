@@ -1,8 +1,8 @@
 # Olá! Eu sou o Cayo
 
 ## 🚀 Skills
-- **Linguagens**: JavaScript, C#, Python, Go
-- **Frameworks**: ASP.NET Core, Gin, Flask
+- **Linguagens**: JavaScript, C#, Python, Go, Java
+- **Frameworks**: ASP.NET Core, Gin, Flask, Spring
 - **Ferramentas**: Git e Docker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-cezar/)
