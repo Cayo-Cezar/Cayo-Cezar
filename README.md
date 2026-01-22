@@ -20,10 +20,12 @@
 ---
 
 ### 🧩 Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
 
 ---
 
