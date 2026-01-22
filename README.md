@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Cayo
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Data+Engineer;API+and+Microservices+Enthusiast;Always+Learning&center=true&width=600)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Data+Engineer;Cryptography+and+Applied+Mathematics;API+and+Microservices+Enthusiast;Always+Learning&center=true&width=600)
 
 🎓 Computer Science student  
 💻 Backend & Data Engineer  
