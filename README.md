@@ -1,23 +1,55 @@
-# Olá! Eu sou o Cayo
+# 👋 Hello! I'm Cayo
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Data+Engineer;API+and+Microservices+Enthusiast;Always+Learning&center=true&width=600)
+
+🎓 Computer Science student  
+💻 Backend & Data Engineer  
+🚀 Focused on APIs, microservices, and data-driven systems
+
+---
 
 ## 🚀 Skills
-- **Linguagens**: JavaScript, C#, Python, Go, Java
-- **Frameworks**: ASP.NET Core, Gin, Flask, Spring
-- **Ferramentas**: Git e Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-cezar/)
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-<!--
-**Cayo-Cezar/Cayo-Cezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Cayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayo-Cezar&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayo-Cezar&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Contributions Animation
+
+![Snake animation](https://github.com/Cayo-Cezar/Cayo-Cezar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cayo_Cezar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cayo-cezar/)
+
+---
+
+✨ *Always learning, building, and improving.*
