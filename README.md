@@ -31,12 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Cayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayo-Cezar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayo-Cezar&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
