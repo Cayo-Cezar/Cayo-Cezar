@@ -4,7 +4,7 @@
 
 🎓 Computer Science student  
 💻 Backend & Data Engineer  
-🚀 Focused on APIs, microservices, and data-driven systems
+🚀 APIs, microservices, cryptography, and applied mathematics enthusiast
 
 ---
 
